@@ -1,1 +1,1 @@
-web: node lib/index.js
+web: node --inspect lib/index.js
